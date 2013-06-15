@@ -5,7 +5,7 @@ Magic Tip Calculator
 
 Independent Android Project
 
-Product Screen Shot: <div><img src="http://farm3.staticflickr.com/2890/9044269007_82147831eb_o.png"></div>
+Product Screen Shot: <div><img src="http://farm3.staticflickr.com/2890/9044269007_805deb9b78.jpg"></div>
 
 Features: customize your tipping amounts based on service quality, availability, wait times, and more!
 
